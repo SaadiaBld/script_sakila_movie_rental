@@ -1,8 +1,8 @@
---requête test
+--requête test simple
 SELECT *
 FROM  actor;
 
---requete test
+--requete test simple
 SELECT first_name
 FROM actor;
 
